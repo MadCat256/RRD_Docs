@@ -3,7 +3,7 @@
 Solar panels take energy from the sun, therefore power production is variable depending on the time of day. +
 Mk. 1 solar panels will not produce any power during the night.
 
-If the panels are obstructed, they will reduce the power production.
+If the panels are obstructed, they will reduce the power production. Obstruction is caused by any object, including power lines or poles, within a box that extends out perpendicularly from the panel. The box is somewhere between 30 and 40 meters in length.
 
 |===
 | |Mk. 1 |Mk. 2 |Mk. 3 |Roof
