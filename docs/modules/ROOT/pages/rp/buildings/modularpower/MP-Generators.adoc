@@ -22,6 +22,9 @@ Generators are built on the Converter Platform and can only function if attached
 15x High-Speed Connector
 
 |Maximum Power Output
+|150 MW
+|300 MW
+|500 MW
 
 
 |Required RPM
@@ -63,9 +66,9 @@ Generator Combinations with the Turbines running at max RPM
 | |LV Generator |MV Generator |HV Generator
 
 |Mk. 1 turbine
-|150MW
-|181.9MW
-|176
+|150 MW
+|181.9 MW
+|176 MW
 
 |Mk. 2 turbine
 |150 MW
