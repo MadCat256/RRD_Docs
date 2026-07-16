@@ -2,7 +2,7 @@
 
 Solar Panels are one of the simplest renewable generators in Refined Power: place one, wire it up, and it produces power from the sun. They come in three tiers plus a set of roof panels. Higher tiers produce more power.
 
-Unlike the xref:/rp/buildings/soalrpanels/solartower.adoc[Solar Power Tower], a Solar Panel generates electricity directly,it does not need xref:/rp/buildings/soalrpanels/solar-power-mirror.adoc[mirrors] or any downstream machine.
+Unlike the xref:/rp/buildings/solarpanels/solartower.adoc[Solar Power Tower], a Solar Panel generates electricity directly,it does not need xref:/rp/buildings/solarpanels/solar-power-mirror.adoc[mirrors] or any downstream machine.
 
 |===
 | |Mk. 1 |Mk. 2 |Mk. 3 |Roof
